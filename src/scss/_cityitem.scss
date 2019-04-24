@@ -1,0 +1,18 @@
+.city__list {
+  display: flex;
+  width: 80%;
+  margin: auto;
+  padding: 5px;
+  cursor: pointer;
+  border-bottom: solid 1px #cdcdcd;
+  border-top: solid 1px #cdcdcd;
+  background-color: #ffffff;
+}
+.city__list-name {
+  font-size: 18px;
+  font-weight: 700;
+  width: 30%;
+}
+.city__list-description {
+  width: 70%;
+}
